@@ -1,4 +1,4 @@
-export function starter(goal) {
+export function triangleTracker(goal) {
   var output = [];
   for (var i = 1; i <= goal; i++) {
     if (i % 15 === 0) {

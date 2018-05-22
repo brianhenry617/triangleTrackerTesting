@@ -5,8 +5,8 @@ Setup instructions:
 NPM must be installed.
 
 * git clone
-* cd to Journal
-* npm install 
+* cd to TriangleTracker
+* npm install
 
 npm run start
 
