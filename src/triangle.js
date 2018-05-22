@@ -8,4 +8,5 @@ Triangle.prototype.checkType = function() {
   if ((this.side1 > (this.side2 + this.side3)) || (this.side2 > (this.side1 + this.side3)) || (this.side3 > (this.side1 + this.side2))) {
     return "not a triangle";
   }
+  console.log("conditional not reached.");
 };
